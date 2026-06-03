@@ -1,1 +1,5 @@
-pandas\nnumpy\nyfinance\nmatplotlib\nstreamlit
+pandas
+numpy
+yfinance
+matplotlib
+streamlit
